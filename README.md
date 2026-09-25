@@ -2,7 +2,6 @@
 
 Forecasting a retailer's monthly sales for 2019 using **only Excel formulas**. The model is tested on past data to prove it works, and it includes a what-if input for planning.
 
-![Dashboard](dashboard.png)
 
 ## Dataset
 
